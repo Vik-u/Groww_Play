@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.secrets.toml
+.access_token
+*.env
+instruments.csv
+.DS_Store
+.gradio/
+gradio.log
